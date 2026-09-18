@@ -137,7 +137,7 @@ class _SplashScreenState extends State<SplashScreen>
                             ),
                           ),
                           TextSpan(
-                            text: 'SmartShuttle',
+                            text: 'ShuttleIT',
                             style: GoogleFonts.outfit(
                               fontSize: 32,
                               fontWeight: FontWeight.w900,
