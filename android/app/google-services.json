@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64460747519",
+    "project_id": "shuttleit-c21af",
+    "storage_bucket": "shuttleit-c21af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64460747519:android:56831d6a0a7a04381d52ca",
+        "android_client_info": {
+          "package_name": "com.vit.shuttle.vit_shuttle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64460747519-m6adejeknvl48gi86lkfls7qs3vhp4a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXMG0gWAt-rjirt7qrUFjRN0EUdLswJHU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64460747519-m6adejeknvl48gi86lkfls7qs3vhp4a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

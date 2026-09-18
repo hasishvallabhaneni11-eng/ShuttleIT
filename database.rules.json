@@ -1,0 +1,10 @@
+{
+  "rules": {
+    "bus_locations": {
+      "$busId": {
+        ".read": true,
+        ".write": true
+      }
+    }
+  }
+}
