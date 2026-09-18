@@ -157,7 +157,7 @@ class _SplashScreenState extends State<SplashScreen>
                         border: Border.all(color: AppTheme.cardBorder),
                       ),
                       child: Text(
-                        'CAMPUS TRANSIT & ₹20 DIGITAL PASS',
+                        'CAMPUS TRANSIT MADE EASY',
                         style: GoogleFonts.inter(
                           fontSize: 10,
                           fontWeight: FontWeight.w600,
